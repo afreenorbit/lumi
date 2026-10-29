@@ -4,9 +4,9 @@
 
 Lumi lets you control your monitor's settings with your voice, instead of reaching behind the screen and pressing tiny buttons you can't see.
 
-[![Watch the Lumi demo](https://img.youtube.com/vi/xnDDsh-2P4c/maxresdefault.jpg)](https://youtu.be/xnDDsh-2P4c)
+[![Watch the Lumi demo](https://img.youtube.com/vi/xnDDsh-2P4c/maxresdefault.jpg)](https://youtu.be/P3-ZhDjCZCI)
 
-▶ **Demo video:** https://youtu.be/xnDDsh-2P4c
+> **Demo video:** https://youtu.be/P3-ZhDjCZCI
 
 ---
 
